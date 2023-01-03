@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bag",
+    "image": "img/bag3.jpg",
+    "description": "diameter 35 cm",
+    "price": 50,
+    "balance": 5,
+    "chosen": false
+  },
+  {
+    "id": 2,
+    "name": "Belt",
+    "image": "img/belt.jpg",
+    "description": "s, m, l, xl",
+    "price": 25,
+    "balance": 8,
+    "chosen": false
+  },
+  {
+    "id": 3,
+    "name": "Washcloth",
+    "image": "img/mochalka3.jpg",
+    "description": "medium hardness",
+    "price": 15,
+    "balance": 1,
+    "chosen": false
+  },
+  {
+    "id": 4,
+    "name": "Toy \"Elephant\"",
+    "image": "img/slonenok_dzhafar_iz_dzhuta_l.jpg",
+    "description": "",
+    "price": 30,
+    "balance": 2,
+    "chosen": false
+  },
+  {
+    "id": 5,
+    "name": "Serviette",
+    "image": "img/dif.jpg",
+    "description": "diameter 20 cm, 30 cm",
+    "price": 10,
+    "balance": 15,
+    "chosen": false
+  },
+  {
+    "id": 6,
+    "name": "Pot",
+    "image": "img/cashpoS.jpg",
+    "description": "diameter 15 cm, 25 cm, 35 cm",
+    "price": 15,
+    "balance": 40,
+    "chosen": false
+  },
+  {
+    "id": 7,
+    "name": "Basket",
+    "image": "img/korzina.jpg",
+    "description": "diameter 45 cm, 55cm",
+    "price": 50,
+    "balance": 6,
+    "chosen": false
+  },
+  {
+    "id": 8,
+    "name": "Carpet",
+    "image": "img/carpet5.jpg",
+    "description": "150cm * 200cm",
+    "price": 150,
+    "balance": 4,
+    "chosen": false
+  }
+]

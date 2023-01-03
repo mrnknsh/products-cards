@@ -1,0 +1,56 @@
+.name {
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+}
+
+td {
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 16%;
+    vertical-align: top;
+    border: 1px solid bisque;
+}
+
+.chosenBackground {
+    background-color: rgba(173, 216, 230, 0.3);
+}
+
+.button_style {
+    padding: 6px;
+    margin: 4px;
+    width: 70px;
+    background-color: rgba(173, 216, 230, 0.6);
+    border: 1px solid lightblue;
+    border-radius: 15px;
+}
+
+.withoutCell {
+    border: none;
+}
+
+.button_style:hover {
+    cursor: pointer;
+    background-color: rgba(173, 216, 230, 0.45);
+}
+
+.none{
+    display: none;
+}
+
+.chosenDescription{
+    border: 1px solid lightblue;
+    margin: 20px 0;
+    padding: 20px;
+    display: block;
+}
+
+.notChosenDescription{
+    display: none;
+}
+
